@@ -6,76 +6,77 @@ body {
 }
 
 .box1 {
-  width: 50px;
-  height: 50px;
+  width: 75px;
+  height: 75px;
   background-color: red;
   cursor: pointer;
   transition: 2.5s;
-  margin: 0 15px 15px 0;
+  margin: 0 20px 20px 0;
 }
 .box2 {
-  width: 50px;
-  height: 50px;
+  width: 75px;
+  height: 75px;
   background-color: blue;
   cursor: pointer;
   transition: 2.5s;
-  margin: 0 15px 15px 0;
+  margin: 0 20px 20px 0;
 }
 .box3 {
-  width: 50px;
-  height: 50px;
+  width: 75px;
+  height: 75px;
   background-color: yellow;
   cursor: pointer;
   transition: 2s;
-  margin: 0 15px 15px 0;
+  margin: 0 20px 20px 0;
 }
 
 .box4 {
-  width: 50px;
-  height: 50px;
+  width: 75px;
+  height: 75px;
   background-color: black;
   cursor: pointer;
   transition: 2s;
-  margin: 0 15px 15px 0;
+  margin: 0 20px 20px 0;
 }
 .box5 {
-  width: 50px;
-  height: 50px;
+  width: 75px;
+  height: 75px;
   background-color: white;
   /* cursor: pointer; */
   transition: 2s;
-  margin: 0 15px 15px 0;
+  margin: 0 20px 20px 0;
 }
 .box6 {
-  width: 50px;
-  height: 50px;
+  width: 75px;
+  height: 75px;
   background-color: skyblue;
   cursor: pointer;
   transition: 1s;
-  margin: 0 15px 15px 0;
+  margin: 0 20px 20px 0;
 }
 
 .circle1 {
   background: pink;
   border-radius: 50%;
-  transform: translate(150px, 150px) rotate(540deg);
+  transform: translate(200px, 200px) rotate(540deg);
   /* transform: rotate(360deg); */
 }
 .circle2 {
   background: purple;
   border-radius: 30%;
-  transform: translate(0px, 150px) rotate(630deg);
+  transform: translate(0px, 200px) rotate(630deg);
 }
 .circle3 {
   background: green;
   border-radius: 40%;
-  transform: translate(-150px, 150px) rotate(540deg);
+  transform: translate(-200px, 200px) rotate(540deg);
 }
 
 .circle4 {
+  background: orange;
   /* background: green; */
   /* border-radius: 40%; */
-  transform: scale(1.8, 0.4);
+  transform: scale(1.5, 0.5);
 }
 .circle5 {
   background: white;
@@ -83,6 +84,7 @@ body {
   /* transform: scale(1.8, 0.4); */
 }
 .circle6 {
+  background: greenyellow;
   /* background: green; */
   /* border-radius: 40%; */
   transform: scale(0.5, 1.5);

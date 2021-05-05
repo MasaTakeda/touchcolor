@@ -1,0 +1,92 @@
+body {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 64px;
+  /* margin: auto; */
+}
+
+
+
+
+.box1 {
+  width: 150px;
+  height: 150px;
+  background-color: red;
+  cursor: pointer;
+  transition: 2.5s;
+  margin: 0 50px 50px 0;
+}
+.box2 {
+  width: 150px;
+  height: 150px;
+  background-color: blue;
+  cursor: pointer;
+  transition: 2.5s;
+  margin: 0 50px 50px 0;
+}
+.box3 {
+  width: 150px;
+  height: 150px;
+  background-color: yellow;
+  cursor: pointer;
+  transition: 2s;
+  margin: 0 50px 50px 0;
+}
+
+.box4 {
+  width: 150px;
+  height: 150px;
+  background-color: black;
+  cursor: pointer;
+  transition: 2s;
+  margin: 0 50px 50px 0;
+}
+.box5 {
+  width: 150px;
+  height: 150px;
+  background-color: white;
+  /* cursor: pointer; */
+  transition: 2s;
+  margin: 0 50px 50px 0;
+}
+.box6 {
+  width: 150px;
+  height: 150px;
+  background-color: skyblue;
+  cursor: pointer;
+  transition: 1s;
+  margin: 0 50px 50px 0;
+}
+
+.circle1 {
+  background: pink;
+  border-radius: 50%;
+  transform: translate(400px, 400px) rotate(540deg);
+  /* transform: rotate(360deg); */
+}
+.circle2 {
+  background: purple;
+  border-radius: 30%;
+  transform: translate(0px, 400px) rotate(630deg);
+}
+.circle3 {
+  background: green;
+  border-radius: 40%;
+  transform: translate(-400px, 400px) rotate(540deg);
+}
+
+.circle4 {
+  /* background: green; */
+  /* border-radius: 40%; */
+  transform: scale(1.8, 0.4);
+}
+.circle5 {
+  background: white;
+  /* border-radius: 40%; */
+  /* transform: scale(1.8, 0.4); */
+}
+.circle6 {
+  /* background: green; */
+  /* border-radius: 40%; */
+  transform: scale(0.5, 1.5);
+}

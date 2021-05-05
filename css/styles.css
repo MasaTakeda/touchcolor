@@ -6,24 +6,24 @@ body {
 }
 
 .box1 {
-  width: 75px;
-  height: 75px;
+  width: 85px;
+  height: 85px;
   background-color: red;
   cursor: pointer;
   transition: 2.5s;
   margin: 0 20px 20px 0;
 }
 .box2 {
-  width: 75px;
-  height: 75px;
+  width: 85px;
+  height: 85px;
   background-color: blue;
   cursor: pointer;
   transition: 2.5s;
   margin: 0 20px 20px 0;
 }
 .box3 {
-  width: 75px;
-  height: 75px;
+  width: 85px;
+  height: 85px;
   background-color: yellow;
   cursor: pointer;
   transition: 2s;
@@ -31,24 +31,24 @@ body {
 }
 
 .box4 {
-  width: 75px;
-  height: 75px;
+  width: 85px;
+  height: 85px;
   background-color: black;
   cursor: pointer;
   transition: 2s;
   margin: 0 20px 20px 0;
 }
 .box5 {
-  width: 75px;
-  height: 75px;
+  width: 85px;
+  height: 85px;
   background-color: white;
   /* cursor: pointer; */
   transition: 2s;
   margin: 0 20px 20px 0;
 }
 .box6 {
-  width: 75px;
-  height: 75px;
+  width: 85px;
+  height: 85px;
   background-color: skyblue;
   cursor: pointer;
   transition: 1s;
@@ -58,18 +58,18 @@ body {
 .circle1 {
   background: pink;
   border-radius: 50%;
-  transform: translate(200px, 200px) rotate(540deg);
+  transform: translate(220px, 220px) rotate(540deg);
   /* transform: rotate(360deg); */
 }
 .circle2 {
   background: purple;
   border-radius: 30%;
-  transform: translate(0px, 200px) rotate(630deg);
+  transform: translate(0px, 220px) rotate(630deg);
 }
 .circle3 {
   background: green;
   border-radius: 40%;
-  transform: translate(-200px, 200px) rotate(540deg);
+  transform: translate(-220px, 220px) rotate(540deg);
 }
 
 .circle4 {
